@@ -1,7 +1,7 @@
 # causality
 Joint Analysis of Hotel Review &amp; Historical Local Economy Metrics for Causal Topics
 * Project background - [AlexKwan_ProjectProposal.pdf](https://github.com/irxum/causality/blob/master/AlexKwan_ProjectProposal.pdf)
-* Short evaluation of useful packages 
+* Short evaluation of useful packages [AlexKwan_TechnologyReview.pdf] (https://github.com/irxum/causality/blob/master/AlexKwan_TechnologyReview.pdf)
 
 # instructions
 1.  Download contents to directory
