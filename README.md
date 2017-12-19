@@ -1,5 +1,7 @@
 # causality
 Joint Analysis of Hotel Review &amp; Historical Local Economy Metrics for Causal Topics
+* Project background
+* Short evaluation of useful packages 
 
 # instructions
 1.  Download contents to directory
