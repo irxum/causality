@@ -5,8 +5,8 @@ Joint Analysis of Hotel Review &amp; Historical Local Economy Metrics for Causal
 * Presentation with audio - [Team5ProjectPresentation.pptx](https://github.com/irxum/causality/blob/master/Team5ProjectPresentation.pptx)
 
 # instructions
-1.  Download contents to directory
-2.  Modify team5proj.R line 55 wk_dir to directory chosen in (1)
+1.  Download contents to chosen directory
+2.  Modify team5proj.R (line 55) "wk_dir" to directory chosen in (1)
 3.  Use R64bit version 3.3.3 and run team5proj.R
 4.  Full code execution can take up to twenty minutes.
 
