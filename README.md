@@ -7,6 +7,7 @@ Joint Analysis of Hotel Review &amp; Historical Local Economy Metrics for Causal
 1.  Download contents to directory
 2.  Modify team5proj.R line 55 wk_dir to directory chosen in (1)
 3.  Use R64bit version 3.3.3 and run team5proj.R
+4.  Full code execution can take up to twenty minutes.
 
 # Data Sources:
 Hotel Reviews found in "./chicago" directory
@@ -23,6 +24,7 @@ Economic Indicator found in "chicago_gdppercapita.csv"
 * Import text from hotel review files into list of texts [lines 58-85]
 * Extract review text and date of entries from list of texts [lines 90-118]
 * Use stm package to
+  * Remove stopwords and conduct stemming [lines 124-131]
   * Estimate appropriate number of topics [lines 134-157] [this section is commented out to make execution shorter]
   * Determine topics [lines 159-165]
 * Take top topic (topic1) and determine percent prevalence in corpus [lines 169-196]
